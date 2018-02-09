@@ -9,12 +9,12 @@ Software and Libraries
 ---------------------
 - Python 2.7.6
 - Scipy 1.0.0
-- Numpy 1.13.3
-- Matplotlib 2.1.0
-- Essentia (https://github.com/MTG/essentia)
-- librosa ( https://librosa.github.io/)
-- Nuss (https://github.com/interactiveaudiolab/nussl)
-- Jupyter (http://jupyter.org/)
-- RISE (https://github.com/damianavila/RISE) 
-- plotly (https://plot.ly/)
+- Numpy 1.14
+- Matplotlib 2.1.2
+- Jupyter 4.4.0 (http://jupyter.org/)
+- RISE 5.2.0 (https://github.com/damianavila/RISE) 
+- Essentia 2.1-3beta (https://github.com/MTG/essentia)
+- librosa 0.51  (https://librosa.github.io/)
+- Nussl 0.1.5a10 (https://github.com/interactiveaudiolab/nussl)
+- plotly 2.3.0 (https://plot.ly/)
 
