@@ -6,11 +6,12 @@ Jupyter Notebook used for the talk [Audio Analysis with Python](https://www.pyco
 
 [https://github.com/damianavila/RISE](https://github.com/damianavila/RISE)
 
-Online presentation:
+## Online presentation in nbviewer:
+
 [Pycon2018-AudioAnalysis-en.ipynb](http://nbviewer.jupyter.org/github/JoseRZapata/Pycon2018Colombia/blob/master/Pycon2018-AudioAnalysis-en.ipynb)
 
-Software and Libraries
----------------------
+## Software and Libraries
+
 - Python 2.7.6
 - Scipy 1.0.0
 - Numpy 1.14
