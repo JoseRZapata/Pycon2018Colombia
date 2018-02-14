@@ -1,6 +1,6 @@
 # Audio Analysis with Python (Talk in Pycon2018 Colombia)
 
-Jupyter Notebook used for the talk [Audio Analysis with Python](https://www.pycon.co/speakers/jose-ricardo-zapata/) at [Pycon2018](https://www.pycon.co/)Colombia.
+Jupyter Notebook used for the talk [Audio Analysis with Python](https://www.pycon.co/speakers/jose-ricardo-zapata/) at [Pycon2018](https://www.pycon.co/) Colombia.
 
 **Note:** This is a Jupyter notebook slideshow for a better visualization of the presentation I highly recommend to install RISE (Reveal.js - Jupyter/IPython Slideshow Extension)- turns the Jupyter Notebooks into a live presentation, after install RISE, press Alt +R and then use a full screen view in the web browser (press F11)
 
