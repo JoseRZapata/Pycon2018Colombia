@@ -6,13 +6,13 @@ List of speakers and  workshops in pycon 2018
 ## Key Note Speakers
 | Name | Github | Presentation |
 | --- | --- | ---
-Audrey Roy Greenfeld | [audreyr](https://www.github.com/audreyr) |
-Christine Doig Cardet | [chdoig](https://www.github.com/chdoig) | https://speakerdeck.com/chdoig/pycon-colombia-2018
-Daniel Roy Greenfeld | [pydanny](https://www.github.com/pydanny) |
-Deborah Hanus | [dhanus](https://www.github.com/dhanus) |
-Lorena Mesa | [lorenanicole](https://www.github.com/lorenanicole) |
-Naomi Ceder | [nceder](https://www.github.com/nceder) |
-Satya Mallick | [spmallick](https://www.github.com/spmallick) |
+Audrey Roy Greenfeld | [audreyr](https://www.github.com/audreyr) | [Empaquetado en python](https://github.com/pydanny/arepa)
+Christine Doig Cardet | [chdoig](https://www.github.com/chdoig) | [Data Science: Past, Present and Future](https://speakerdeck.com/chdoig/pycon-colombia-2018)
+Daniel Roy Greenfeld | [pydanny](https://www.github.com/pydanny) | [Empaquetado en python](https://github.com/pydanny/arepa)
+Deborah Hanus | [dhanus](https://www.github.com/dhanus) | [With great machine learning comes great responsibility](https://www.slideshare.net/DeborahHanus/pycon-colombia-keynote-2018)
+Lorena Mesa | [lorenanicole](https://www.github.com/lorenanicole) | [Your model is bias, but so is your data](https://docs.google.com/presentation/d/1VJpw_h95B0yfWEJDGn9Hj1qeGRk0b9_TOFqDXOo2pwA/edit#slide=id.g2c36140c5b_0_555)
+Naomi Ceder | [nceder](https://www.github.com/nceder) | [Obstáculos para la inclusión](https://docs.google.com/presentation/d/19FTLXRXHX6dyxS5GJYLLK4NGYaeT280vIZm9ncSjdd8/edit#slide=id.p)
+Satya Mallick | [spmallick](https://www.github.com/spmallick) | [Computer Vision Machine Learning & AI](http://www.learnopencv.com/satya-mallick-pycon-colombia-keynote-2018/)
 
 ## Speakers and Workshops
 | Name | Github | Presentation |
