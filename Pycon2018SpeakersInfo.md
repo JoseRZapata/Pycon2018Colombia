@@ -1,6 +1,7 @@
 # Pycon 2018 Colombia Speakers Info
 
-List of speakers and  workshops in pycon 2018
+List of speakers and  workshops in pycon 2018, made using [WebscrappingPyconCoSpeakers.py](WebscrappingPyconCoSpeakers.py)
+and manually filling the missing information by [Jose R Zapata](joserzapata.github.io)
 
 
 ## Key Note Speakers
@@ -30,21 +31,21 @@ Edward Villegas-Pulgarin | [cosmoscalibur](https://www.github.com/cosmoscalibur)
 Edwin Caldon | [edycop](https://www.github.com/edycop) | Multiplatform development with Kivy Framework
 Esteban Echeverry | [tebanep](https://www.github.com/tebanep) | Clean Architecture with Python
 Gonzalo Andrés Peña Castellanos | [goanpeca](https://www.github.com/goanpeca) | Take your (Storm) Water Modeling to the next level with PySWMM and the OpenWaterAnalytics Initiative
-Isabel Cristina Ruiz Buriticá | [iris9112](https://www.github.com/iris9112) | Painting Chaos with Python
+Isabel Cristina Ruiz Buriticá | [iris9112](https://www.github.com/iris9112) | [Painting Chaos with Python](https://github.com/iris9112/Pycon2018_Fractals)
 Javier Mansilla | [jmansilla](https://www.github.com/jmansilla) | Python and Data Science in e-commerce: A success story
 Jennifer Vélez Segura | [jevelezse](https://www.github.com/jevelezse) | Data mining with clinical and genomic data
 Johanna Sanchez Vallejo | [ellaquimica](https://www.github.com/ellaquimica) | Django Girls Colombia: Technological inclusion and results achieved in 2017
 Jonas Obrist | [ojii](https://www.github.com/ojii) | Why you might want to  go async
 Jonatas Baldin | [jonatasbaldin](https://www.github.com/jonatasbaldin) | Serverless for Pythonistas
 Jonathan Sandoval Cardona | [jsandovalc](https://www.github.com/jsandovalc) | Introduction to asynchronous programming  with Python and Twisted
-Jorge Martinez | [JorgeMartinezG](https://www.github.com/JorgeMartinezG) | Detection vs Tracking:  A computer vision approach
+Jorge Martinez | [JorgeMartinezG](https://www.github.com/JorgeMartinezG) | [Detection vs Tracking:  A computer vision approach](https://github.com/JorgeMartinezG/KalmanTemplateTracker)
 Jorge Luis Galvis Quintero | [jorlugaqui](https://www.github.com/jorlugaqui) | Architecture for machine learning apps (Django flavored)
 Jose Ricardo Zapata | [JoseRZapata](https://www.github.com/JoseRZapata) | [Audio signal analysis with python](https://github.com/JoseRZapata/Pycon2018Colombia)
 Juan David Velásquez-Henao |  | [Cashflows: Financial investment modeling and advanced engineering economics using Python](https://github.com/jdvelasq/cashflows)
 Juan Nicolás Táutiva | [NickATC](https://www.github.com/NickATC) | Programming for non-programmers: The four pillars of object-oriented programming
 Justyna Janczyszyn | [jjanczyszyn](https://www.github.com/jjanczyszyn) | Build your own serverless image sharing web- site with Lambda, API  Gateway, DynamoDB and S3
 Manuel Kaufmann | [humitos](https://www.github.com/humitos) | What is the Python Software Foundation?
-Manuel Ignacio Franco Galeano | [maigfrga](https://www.github.com/maigfrga) | Introduction to Recommendation Systems
+Manuel Ignacio Franco Galeano | [maigfrga](https://www.github.com/maigfrga) | [Introduction to Recommendation Systems](https://github.com/maigfrga/nt-recommend/blob/master/documentation/pycon/Intro%20Recsys.odp)
 Manuela Jaramillo Rendon | [manuela98](https://www.github.com/manuela98) | TalkScript2Media
 Maria Camila Remolina-Gutiérrez | [mariacamilaremolinagutierrez](https://www.github.com/mariacamilaremolinagutierrez) | AMUSE: Taking python to the stars
 María Camila Guerrero Giraldo | [macaguegi](https://www.github.com/macaguegi) | Introductory Functional Programming Workshop with Python
