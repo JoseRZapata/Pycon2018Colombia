@@ -26,7 +26,7 @@ Carlos Andrés Díaz Berrío | [caberrio](https://www.github.com/caberrio) | Sof
 Cesar Augusto Herdenez | [cesar0510](https://www.github.com/cesar0510) | Design your own CLI with Python
 Darío Guzmán | [gudarjs](https://www.github.com/gudarjs) | Facial recognition with neural networks
 David Przybilla | [dav009](https://www.github.com/dav009) | Python in the land of  Serverless
-Edward Villegas-Pulgarin | [cosmoscalibur](https://www.github.com/cosmoscalibur) | Using Jupyter in the classroom
+Edward Villegas-Pulgarin | [cosmoscalibur](https://www.github.com/cosmoscalibur) | [Using Jupyter in the classroom](https://github.com/cosmoscalibur/aula-notebook)
 Edwin Caldon | [edycop](https://www.github.com/edycop) | Multiplatform development with Kivy Framework
 Esteban Echeverry | [tebanep](https://www.github.com/tebanep) | Clean Architecture with Python
 Gonzalo Andrés Peña Castellanos | [goanpeca](https://www.github.com/goanpeca) | Take your (Storm) Water Modeling to the next level with PySWMM and the OpenWaterAnalytics Initiative
