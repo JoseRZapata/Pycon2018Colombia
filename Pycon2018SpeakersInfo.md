@@ -50,7 +50,7 @@ Manuela Jaramillo Rendon | [manuela98](https://www.github.com/manuela98) | [Talk
 Maria Camila Remolina-Gutiérrez | [mariacamilaremolinagutierrez](https://www.github.com/mariacamilaremolinagutierrez) | AMUSE: Taking python to the stars
 María Camila Guerrero Giraldo | [macaguegi](https://www.github.com/macaguegi) | Introductory Functional Programming Workshop with Python
 Matt Harrison | [mattharrison](https://www.github.com/mattharrison) | [Welcome to the Jungle: Random Forests for Fun and Profit](https://github.com/mattharrison/Jungle-PyconCo-2018)
-Mauricio Collazos | [ma0c](https://www.github.com/ma0c) | Introduction to Chatbots with Python
+Mauricio Collazos | [ma0c](https://www.github.com/ma0c) | [Introduction to Chatbots with Python](https://github.com/contraslash/chatbots-intro)
 Max Humber |  | Personal Pynance
 Milton Lenis | [MiltonLn](https://www.github.com/MiltonLn) | [Multitenant Architectures in Python](https://github.com/MiltonLn/pycon-multitenant)
 Moises Vargas | [moisesvw](https://www.github.com/moisesvw) | [Classifying human faces using Convolutional Neural Networks](https://github.com/moisesvw/pyconMDE2018)
@@ -63,5 +63,5 @@ Rocky Bernstein | [rocky](https://www.github.com/rocky) | Decompilation and Pand
 Santiago Mesa Velásquez | [samez21](amez21/leyes-kepler) | [Solar System Simulator](https://github.com/samez21/leyes-kepler)
 Sebastián Parada | [NeftaliChana](https://www.github.com/NeftaliChana) | [Introductory Functional Programming Workshop with Python](https://github.com/NeftaliChana/PyCon-2018)
 Sergio Pulgarin | [serpulga](https://www.github.com/serpulga) | [Python API for C programs](https://docs.google.com/presentation/d/1meKI2I_sX3avnQcU2gK1j-RcSzXcyYC4-Y4Ol1Pu35E/edit#slide=id.p)
-Sergio Alexander Florez Galeano | [xergioalex](https://www.github.com/xergioalex) | Deep learning: From academia to practice using micro services
+Sergio Alexander Florez Galeano | [xergioalex](https://www.github.com/xergioalex) | [Deep learning: From academia to practice using micro services](https://www.pycon.co/talks/deep-learning-from-academia-to-practice/deep-learning-from-academia-to-practice.pdf)
 Silvia Marcela Henao Villa |  | Remote Monitoring of electromagnetic variables using Raspberry Pi and Python
