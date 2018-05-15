@@ -1,6 +1,6 @@
 # Pycon 2018 Colombia Speakers Info
 
-List of speakers and  workshops in pycon 2018, made using [WebscrappingPyconCoSpeakers.py](WebscrappingPyconCoSpeakers.py)
+List of speakers and  workshops in [pycon 2018](https://2018.pycon.co/), made using [WebscrappingPyconCoSpeakers.py](WebscrappingPyconCoSpeakers.py)
 and manually filling the missing information by [Jose R Zapata](joserzapata.github.io)
 
 
