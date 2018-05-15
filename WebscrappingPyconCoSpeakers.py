@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 import csv   #para manipular archivos csv
 
 #%% Download webpage
-URL = 'https://www.pycon.co'
+URL = 'https://2018.pycon.co'
 page = requests.get(URL+'/speakers/')
 contents = page.content
 
@@ -32,7 +32,7 @@ for data in speakers:
     links = data.find_all("a","social-hover",href=True)
     if len(links)!=0:
         github_link = [x['href'] for x in links if 'www.github' in x['href']]
-        
+
     # get the talk or workshop name
     per = data.find("a","",href=True)
     personal_info = requests.get(URL+per['href'])
@@ -45,6 +45,5 @@ for data in speakers:
     else:
         file2write.write(f'{name} |  | {talk}'+ '\n')
     github_link = []
-file2write.close()   
-print("Have a Nice day :)")        
-        
+file2write.close()
+print("Have a Nice day :)")
