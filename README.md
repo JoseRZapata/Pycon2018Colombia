@@ -1,6 +1,6 @@
 # Audio Analysis with Python (Talk in Pycon2018 Colombia)
 
-Jupyter Notebook used for the talk [Audio Analysis with Python](https://2018.pycon.co/speakers/jose-ricardo-zapata/) at [Pycon2018](https://2018.pycon.co/) Colombia.
+Jupyter Notebook used for the talk [Audio Analysis with Python](https://2018.pycon.co/speakers/jose-ricardo-zapata/) at [Pycon2018](https://2018.pycon.co/) Colombia. [Video](http://img.youtube.com/vi/zu63_q7x8b0/0.jpg)](http://www.youtube.com/watch?v=zu63_q7x8b0)
 
 I made an python script to automatically extract the name, github account and
  talk name of each speaker at [Pycon2018](https://2018.pycon.co/), [WebscrappingPyconCoSpeakers.py](WebscrappingPyconCoSpeakers.py),
