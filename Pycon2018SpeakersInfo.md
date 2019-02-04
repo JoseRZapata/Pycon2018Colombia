@@ -5,19 +5,19 @@ and manually filling the missing information by [Jose R Zapata](joserzapata.gith
 
 
 ## Key Note Speakers
-| Name | Github | Presentation |
-| --- | --- | ---
-Audrey Roy Greenfeld | [audreyr](https://www.github.com/audreyr) | [Empaquetado en python](https://github.com/pydanny/arepa)
-Christine Doig Cardet | [chdoig](https://www.github.com/chdoig) | [Data Science: Past, Present and Future](https://speakerdeck.com/chdoig/pycon-colombia-2018)
-Daniel Roy Greenfeld | [pydanny](https://www.github.com/pydanny) | [Empaquetado en python](https://github.com/pydanny/arepa)
-Deborah Hanus | [dhanus](https://www.github.com/dhanus) | [With great machine learning comes great responsibility](https://www.slideshare.net/DeborahHanus/pycon-colombia-keynote-2018)
-Lorena Mesa | [lorenanicole](https://www.github.com/lorenanicole) | [Your model is bias, but so is your data](https://docs.google.com/presentation/d/1VJpw_h95B0yfWEJDGn9Hj1qeGRk0b9_TOFqDXOo2pwA/edit#slide=id.g2c36140c5b_0_555)
-Naomi Ceder | [nceder](https://www.github.com/nceder) | [Obstáculos para la inclusión](https://docs.google.com/presentation/d/19FTLXRXHX6dyxS5GJYLLK4NGYaeT280vIZm9ncSjdd8/edit#slide=id.p)
-Satya Mallick | [spmallick](https://www.github.com/spmallick) | [Computer Vision Machine Learning & AI](http://www.learnopencv.com/satya-mallick-pycon-colombia-keynote-2018/)
+| Name | Github | Presentation | Video |
+| --- | --- | --- | ---
+Audrey Roy Greenfeld | [audreyr](https://www.github.com/audreyr) | [Empaquetado en python](https://github.com/pydanny/arepa)|[Link](https://www.youtube.com/watch?v=AS3nCSkdxFM)
+Christine Doig Cardet | [chdoig](https://www.github.com/chdoig) | [Data Science: Past, Present and Future](https://speakerdeck.com/chdoig/pycon-colombia-2018)| [Link](https://www.youtube.com/watch?v=6hlktNNIbiM)
+Daniel Roy Greenfeld | [pydanny](https://www.github.com/pydanny) | [Empaquetado en python](https://github.com/pydanny/arepa)| [Link](https://www.youtube.com/watch?v=AS3nCSkdxFM)
+Deborah Hanus | [dhanus](https://www.github.com/dhanus) | [With great machine learning comes great responsibility](https://www.slideshare.net/DeborahHanus/pycon-colombia-keynote-2018)|
+Lorena Mesa | [lorenanicole](https://www.github.com/lorenanicole) | [Your model is bias, but so is your data](https://docs.google.com/presentation/d/1VJpw_h95B0yfWEJDGn9Hj1qeGRk0b9_TOFqDXOo2pwA/edit#slide=id.g2c36140c5b_0_555)|
+Naomi Ceder | [nceder](https://www.github.com/nceder) | [Obstáculos para la inclusión](https://docs.google.com/presentation/d/19FTLXRXHX6dyxS5GJYLLK4NGYaeT280vIZm9ncSjdd8/edit#slide=id.p)|
+Satya Mallick | [spmallick](https://www.github.com/spmallick) | [Computer Vision Machine Learning & AI](http://www.learnopencv.com/satya-mallick-pycon-colombia-keynote-2018/)|
 
 ## Speakers and Workshops
-| Name | Github | Presentation |
-| --- | --- | ---
+| Name | Github | Presentation | Video|
+| --- | --- | --- | ---
 Alejandro Correa  Bahnsen | [albahnsen](https://www.github.com/albahnsen) | [Practical Machine Learning with Scikit-Learn](https://github.com/albahnsen/Tutorial_PracticalMachineLearning_Pycon)
 Alizishaan Khatri | [alye](https://www.github.com/alye) | Detecting offensive messages using Deep Learning: A micro- service based approach
 Angie Katherine Reyes Betancourt | [angiereyesbet](https://github.com/angiereyesbet/) | [Identification of Colombian Bird species using Python](https://github.com/angiereyesbet/birdPycon2018)
@@ -40,7 +40,7 @@ Jonatas Baldin | [jonatasbaldin](https://www.github.com/jonatasbaldin) | [Server
 Jonathan Sandoval Cardona | [jsandovalc](https://www.github.com/jsandovalc) | [Introduction to asynchronous programming  with Python and Twisted](https://github.com/jsandovalc/pycon2018)
 Jorge Martinez | [JorgeMartinezG](https://www.github.com/JorgeMartinezG) | [Detection vs Tracking:  A computer vision approach](https://github.com/JorgeMartinezG/KalmanTemplateTracker)
 Jorge Luis Galvis Quintero | [jorlugaqui](https://www.github.com/jorlugaqui) | [Architecture for machine learning apps (Django flavored)](https://github.com/jorlugaqui/pycon)
-Jose Ricardo Zapata | [JoseRZapata](https://www.github.com/JoseRZapata) | [Audio signal analysis with python](https://github.com/JoseRZapata/Pycon2018Colombia)
+Jose Ricardo Zapata | [JoseRZapata](https://www.github.com/JoseRZapata) | [Audio signal analysis with python](https://github.com/JoseRZapata/Pycon2018Colombia) | [Link](https://www.youtube.com/watch?v=zu63_q7x8b0)
 Juan David Velásquez-Henao |[jdvelasq](https://github.com/jdvelasq)  | [Cashflows: Financial investment modeling and advanced engineering economics using Python](https://github.com/jdvelasq/cashflows)
 Juan Nicolás Táutiva | [NickATC](https://www.github.com/NickATC) | [Programming for non-programmers: The four pillars of object-oriented programming](https://github.com/NickATC/Taller_Python_OOP_2018)
 Justyna Janczyszyn | [jjanczyszyn](https://www.github.com/jjanczyszyn) | Build your own serverless image sharing web- site with Lambda, API  Gateway, DynamoDB and S3
