@@ -22,6 +22,10 @@ Pycon 2018 (Colombia) speakers information: [Pycon2018SpeakersInfo.md](Pycon2018
 - [Notebook Format -Pycon2018-AudioAnalysis-en.ipynb](http://nbviewer.jupyter.org/github/JoseRZapata/Pycon2018Colombia/blob/master/Pycon2018-AudioAnalysis-en.ipynb)
 - [Slides Format - Pycon2018-AudioAnalysis-en.ipynb](http://nbviewer.jupyter.org/format/slides/github/JoseRZapata/Pycon2018Colombia/blob/master/Pycon2018-AudioAnalysis-en.ipynb)
 
+## Video
+
+[![Audio signal analysis with python - PyCon Colombia 2018](http://img.youtube.com/vi/zu63_q7x8b0/0.jpg)](http://www.youtube.com/watch?v=zu63_q7x8b0)
+
 ## Software and Libraries
 
 - Python 2.7.6
