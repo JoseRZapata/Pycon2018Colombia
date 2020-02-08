@@ -26,6 +26,15 @@ Pycon 2018 (Colombia) speakers information: [Pycon2018SpeakersInfo.md](Pycon2018
 
 [![Audio signal analysis with python - PyCon Colombia 2018](http://img.youtube.com/vi/zu63_q7x8b0/0.jpg)](http://www.youtube.com/watch?v=zu63_q7x8b0)
 
+## Contact
+## Contacto
+|  |  |
+|---|---|
+|<img style="float:left" src="Img/website.png" width="40px" height="40px"/>|[joserzapata.github.io](https://joserzapata.github.io/)|
+|<img style="float:left" src="Img/github.png" width="50px" height="50px"/>|[@joserzapata](https://github.com/JoseRZapata)|
+|<img style="float:left" src="Img/blue-twitter.png" width="50px" height="50px"/>|[@joserzapata](https://twitter.com/joserzapata)|
+|<img style="float:left" src="Img/li_icon.png" width="50px" height="50px"/>|[jose-ricardo-zapata-gonzalez](https://www.linkedin.com/in/jose-ricardo-zapata-gonzalez/)|
+
 ## Software and Libraries
 
 - Python 2.7.6
